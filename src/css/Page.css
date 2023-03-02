@@ -1,0 +1,19 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-btn{
+   background-color: #0d1117;
+   color: aliceblue;
+   padding: 0.5rem 1rem;
+   font-size: larger;
+   border: none;
+}
+
+.page-btn:hover{
+    cursor: pointer;
+    background-color: #21262d;
+}
+
